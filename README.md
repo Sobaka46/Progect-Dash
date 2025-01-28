@@ -1,7 +1,7 @@
 ﻿# ProgectDash
 # NewTest
-- Описание:  Разработка аналитического инструмента для представления KPI.  
-- Что сделано:  
-- Сбор данных из разных источников (SQL, Excel).  
-- Очистка данных и их обработка.  
-- Разработка интерактивного дашборда (Dash).  
+- Description:  Development of an analytical tool for presenting KPIs.  
+- What's done:  
+- Data collection from various sources (SQL, Excel).  
+- Data cleaning and processing.  
+- Development of an interactive dashboard (Dash).
